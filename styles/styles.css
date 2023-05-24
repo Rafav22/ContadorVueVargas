@@ -1,0 +1,12 @@
+body{
+  background-color: brown;
+}
+h1{
+  color: white;
+}
+
+header{
+  background-color: rgb(58, 15, 15);
+  color: #fff;
+  text-align: center;
+}
